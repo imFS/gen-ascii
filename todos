@@ -1,0 +1,4 @@
+TODO:
+- Better iteration through pixels.
+- Better method for representing pixels? Maybe try higher resolution surface and rescaling it?
+- More options
